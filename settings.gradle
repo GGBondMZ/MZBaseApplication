@@ -9,6 +9,6 @@ dependencyResolutionManagement {
         }
     }
 }
-rootProject.name = "MZ Base Application"
+rootProject.name = "MZBaseApplication"
 
 include ':app'
